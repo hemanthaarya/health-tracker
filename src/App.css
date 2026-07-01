@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.status{
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.status-item{
+  border: 1px solid black;
+  width: 15.625rem;
+  height: 15.625rem;
+}
+  
